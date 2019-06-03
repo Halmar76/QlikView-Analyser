@@ -4,12 +4,12 @@ You can schedule this file in your QMC and analyse your QlikView files on a dail
 
 So:
 - No VBA script
+- Reload it easily and quick on your QMC
 - Scan multple documents or just one document
 - Optional use of projectfiles for complete scan
-- Or a quick scan without projectfiles
 
 With:
-- Documents, Tables, Fields, Objects, Variables
+- Documents, Sheets, Tables, Fields, Objects, Variables
 - Unused fields
 - Used sources
 - Sizes, No of fields, No of rows
