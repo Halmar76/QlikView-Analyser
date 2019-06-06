@@ -14,7 +14,7 @@ With:
 - Used sources
 - Sizes, No of fields, No of rows
 
-![](//Images/Configuration.png)
+![](Images/Configuration.png)
 
 # Versions
 1.0
