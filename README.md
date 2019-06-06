@@ -16,6 +16,10 @@ With:
 
 ![](Images/Configuration.png)
 
+![](Images/Documents.png)
+
+![](Images/Tables.png)
+
 # Versions
 1.0
 - Initial release
