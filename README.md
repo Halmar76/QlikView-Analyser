@@ -11,7 +11,7 @@ So:
 With:
 - Documents, Sheets, Tables, Fields, Objects, Variables
 - Unused fields
-- Used sources
+- Used sources (and their sources)
 - Sizes, No of fields, No of rows
 
 ![](Images/Configuration.png)
@@ -19,6 +19,10 @@ With:
 ![](Images/Documents.png)
 
 ![](Images/Tables.png)
+
+![](Images/Fields.png)
+
+![](Images/Sources.png)
 
 # Versions
 1.0
