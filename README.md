@@ -29,7 +29,5 @@ With:
 - Initial release
 
 # Roadmap
-- Sourcefile anlyser
-- Field - object relations
 - Last reloadtime
 - Link to last logfile to analyse
