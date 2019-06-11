@@ -27,7 +27,3 @@ With:
 # Versions
 1.0
 - Initial release
-
-# Roadmap
-- Last reloadtime
-- Link to last logfile to analyse
