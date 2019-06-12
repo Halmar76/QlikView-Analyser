@@ -1,5 +1,5 @@
 # QlikView-Analyser
-With this QlikView file, you can analyse your complete QlikView envoirment.
+With this QlikView file, you can analyse your complete QlikView environment.
 You can schedule this file in your QMC and analyse your QlikView files on a daily basis.
 
 So:
